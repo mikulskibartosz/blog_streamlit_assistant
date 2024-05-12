@@ -5,7 +5,7 @@ This example application demonstrates how to build an AI chatbot using YouTube a
 ![File upload](images/file_input.png)
 ![Chat](images/chat.png)
 
-This application was created as an example for a blog post: TODO the url
+This application was created as an example for a blog post: https://mikulskibartosz.name/building-a-chatbot-with-a-customgpt-assistant
 
 ## Setup
 
